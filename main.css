@@ -1,3 +1,5 @@
+.text { font-family:helvetica}
+
 SECTION {
   background-color: #2F4F4F;
   padding: 1px;
@@ -18,10 +20,12 @@ HH1 { color:#666666;  font-family:lato;}
 
 .col-1 {
   background-color: white;
+ font-family: helvetica
 }
 
 .col-2 {
   background-color: white;
+ font-family: helvetica
 }
 
   .bottom-three {
@@ -35,5 +39,14 @@ HH1 { color:#666666;  font-family:lato;}
 .bottom-maspelin {
      margin-bottom: -0.5cm;
   }
+
+/* Style the footer */
+footer {
+  background-color: #DCDCDC;
+  padding: 10px;
+  text-align: left;
+  color: #696969;
+  font-family: helvetica; 
+}
 
 
