@@ -1,20 +1,20 @@
 .text { font-family:helvetica}
 
 SECTION {
-  background-color: #2F4F4F;
+  background-color: black;
   padding: 1px;
   text-align: center;
   font-size: 15px;
   color: white;
-  font-family: verdana;
+  font-family: helvetica;
 }
 
 
-HH1 { color:#666666;  font-family:lato;}
+HH1 { color:#666666;  font-family:helvetica;}
 
 .container-grid {
   display: grid;
-  grid-template-columns: 800px 400px; /*columns widths*/
+  grid-template-columns: 700px 400px; /*columns widths*/
   height: 40vh;
 }
 
@@ -29,7 +29,7 @@ HH1 { color:#666666;  font-family:lato;}
 }
 
   .bottom-three {
-     margin-bottom: 2.5cm;
+     margin-bottom: 3cm;
   }
 
   .bottom-one {
