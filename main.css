@@ -4,7 +4,7 @@ SECTION {
   background-color: black;
   padding: 1px;
   text-align: center;
-  font-size: 15px;
+  font-size: 12px;
   color: white;
   font-family: helvetica;
 }
@@ -14,7 +14,7 @@ HH1 { color:#666666;  font-family:helvetica;}
 
 .container-grid {
   display: grid;
-  grid-template-columns: 700px 400px; /*columns widths*/
+  grid-template-columns: 670px 400px; /*columns widths*/
   height: 40vh;
 }
 
